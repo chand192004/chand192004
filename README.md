@@ -3,8 +3,6 @@
        alt="Banner" 
        width="20%" height="10%"/>
 </p>
-
-
 <h1 align="center">Hi 👋, I'm Chandni Mehta!</h1>
 <h3 align="center">Constant Learning 🧠 → Dynamic Growth 🚀</h3>
 
