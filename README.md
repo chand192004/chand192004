@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Chandni Mehta!</h1>
 <h3 align="center">Constant Learning 🧠 → Dynamic Growth 🚀</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
+<img align="right" alt="coding" width="380" src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
 
 - 🌱 I’m currently learning **building smarter solutions with code!**  
 - 📫 How to reach me: **chandnimehta2234@gmail.com**  
