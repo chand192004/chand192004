@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFjZGx6MjFjdWF6MHN6YnZ1bndiaDR4a2Nuejd3djBkaTMzNDN5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" 
+  <img src="aGPS345QK7.gif" 
        alt="Banner" 
-       width="100%" />
+       width="20%" height="10%"/>
 </p>
 
 
