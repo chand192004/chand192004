@@ -57,11 +57,6 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
----
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand192004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="chand192004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chand192004&show_icons=true&locale=en&theme=tokyonight" alt="chand192004" /></p>
 
 
