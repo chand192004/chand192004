@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="aGPS345QK7.gif" alt="Banner" width="20%"/>
+  <img src="aGPS345QK7.gif" alt="Banner" width="15%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandni Mehta!</h1>
 <h3 align="center">Constant Learning 🧠 → Dynamic Growth 🚀</h3>
 
-<img align="right" alt="coding" width="220"
+<img align="right" alt="coding" width="400"
 src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif">
 
 - 🌱 I’m currently learning **building smarter solutions with code!**
